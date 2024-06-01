@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuktijohri06
-- 👀 I’m interested in omputer Science | Seeking job Opportunities in Cutting-Edge Tech | Data Structure | Algo| Programming | AI & ML
+- 👀 I’m interested in computer Science | Seeking job Opportunities in Cutting-Edge Tech | Data Structure | Algo| Programming | AI & ML
 - 🌱 I’m currently learning DSA in java, AI/ML,algo
 - 📫 How to reach me yuktijohri0618@gmail.com
 - ⚡ Fun fact: Nikola Tesla is my favourite scientist
